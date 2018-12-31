@@ -1,0 +1,5 @@
+maven without setup chromedriver.exe:
+https://stackoverflow.com/questions/35867102/how-to-work-with-selenium-chrome-driver-in-maven-without-chromedriver-exe
+
+Selenium 3:
+http://learnselenium.techcanvass.com/selenium-tutorials/
